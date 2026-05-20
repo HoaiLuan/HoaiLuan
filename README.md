@@ -51,15 +51,19 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HoaiLuan&show_icons=true&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/HoaiLuan">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HoaiLuan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoaiLuan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoaiLuan&layout=compact&theme=tokyonight&hide_border=true" />
-  <img src="https://streak-stats.demolab.com/?user=HoaiLuan&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=HoaiLuan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HoaiLuan&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 ### 🚀 Featured Projects
 
